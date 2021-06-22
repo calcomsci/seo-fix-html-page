@@ -12,3 +12,8 @@ What needs to be done?
 
 The fixed page can be found here:
 https://github.com/calcomsci/seo-fix-html-page
+
+
+There is a folder called "unfixed original files". This contains the default files given, and the index HTML file in particular needs to be fixed.
+
+There is another folder called "fixed files". This contains the fixed version of the HTML page. You should look at those to view the fixed page.
